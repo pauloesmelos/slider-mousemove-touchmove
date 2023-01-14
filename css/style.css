@@ -96,13 +96,13 @@ img{
     border-radius: 50%;
     overflow: hidden;/*apenas aplicando overflow: hidden que conseguimos arredondar o li e a img*/
     margin: 1rem 1rem 0 0;
-    opacity: .8;
-    transform: scale(.8);
+    opacity: .5;
+    transform: scale(.7);
     transition: .5s;
 }
 .custom-control li.active{
     opacity: 1;
-    transform: scale(1);
+    transform: scale(1.1);
 }
 /*footer*/
 footer{
